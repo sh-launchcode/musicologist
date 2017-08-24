@@ -22,3 +22,4 @@ Any way you like! You can generate a list of the most annoying songs if you like
 * Find songs with the same keywords in the titles.
 * Find songs in the same genre.
 * Consult other APIs to determine beats per minute bpm or some similar stats.
+# musicologist
