@@ -26,6 +26,7 @@
                   <input type="text" class="form-control" id="musicField" placeholder="Song Name, Artist...">
                   <span class="input-group-btn">
                     <button id="addButton" class="btn btn-default" type="button">Add!</button>
+                    <button id="clearSearch" class="btn btn-default" type="button">Reset</button>
                   </span>
                 </div>
               </div>
@@ -42,8 +43,10 @@
         </div>
         <div class="row">
           <div class="col col-xs-12 text-center">
-            <button id="getPlaylistBtn" class="btn btn-default btn-lg">Get Playlist</button>
+            <button id="getPlaylistBtn" class="btn btn-default btn-lg">Get Playlist</button><br>
           </div>
+          <ol id="list-result-info">
+          </ol>
         </div>
       </div>
     <script
